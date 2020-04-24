@@ -2,7 +2,7 @@
 
 GROUP 13
 
-Topic: Augmented Reality
+Topic: Computer Assissted Education
 
 Students:
   Alan Phillips     19262922
